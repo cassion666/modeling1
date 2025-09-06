@@ -1,8 +1,0 @@
-Machine learning based on the Iris dataset
-Inside, there are algorithm models such as KNN, SVM, DT, Logistic Regression, etc.
-At this time, the author is still in the novice stage, so the code written may be easier to understand among people at the same stage.
-First, you need to download relevant libraries: third - party libraries such as numpy, pandas, sklearn, matplotlib, seaborn, etc.
-I'm Chinese, so I use the mirror source address of Tsinghua University in China for downloading. It can be downloaded in the Pycharm terminal. This way, the speed will be much faster.
-I followed a teacher online to write these codes, so the general framework is similar to his. However, due to the different versions of Pycharm and some minor issues in the teacher's code, I still made some modifications. Especially regarding the Chinese comments, I believe domestic beginners will be more willing to read them.
-Code highlights： A variety of visualization methods are comprehensively used to display data features and distributions from different perspectives, providing a comprehensive view for data analysis. Meanwhile, multiple classic machine learning models are applied in comparison, which facilitates the evaluation of the performance of different models on this dataset and provides a reference for subsequent model selection and optimization.
-I want to apply machine learning to agricultural production, such as crop yield models, pest and disease identification, irrigation demand forecasting, etc. But obviously, I still need to work hard at present. I hope that when I see this line of code again in the future, I can meet my own requirements.
